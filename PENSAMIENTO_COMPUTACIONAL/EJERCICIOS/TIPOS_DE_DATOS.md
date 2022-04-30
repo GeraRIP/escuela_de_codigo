@@ -1,10 +1,12 @@
 ## RETO 
 Vamos a identificar los siguientes tipos de datos
 
-NUMEROS ENTEROS : 
+NUMEROS ENTEROS : int(a);
+a=3
 
-NUMEROS DECIMALES: 
+NUMEROS DECIMALES: float(t);
+t=4.54
 
-CARACTER : 
+CARACTER : char("d");
 
-CADENA DE CARACTERES : 
+CADENA DE CARACTERES : string("comer");
